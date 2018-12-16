@@ -8,7 +8,7 @@ Cordova Plugin For Multiple Image Selection - implemented for Android 4.0.3 and 
 The plugin conforms to the Cordova plugin specification, it can be installed
 using the Cordova command line interface.
 
-    cordova plugin add https://github.com/RattleInGlasses/cordova-image-multiselect.git
+    cordova plugin add https://github.com/susam-cordova/cordova-image-multiselect.git
 
 
 ## Using the plugin
