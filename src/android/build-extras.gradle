@@ -1,0 +1,20 @@
+ext.postBuildExtras = {
+
+    repositories {
+        jcenter()
+        flatDir {
+            dirs 'libs'
+        }
+    }
+
+    dependencies {
+        compile(name: 'mutliple-media-picker', ext: 'aar')
+    }
+
+    android {
+        compileOptions {
+            sourceCompatibility JavaVersion.VERSION_1_7
+            targetCompatibility JavaVersion.VERSION_1_7
+        }
+    }
+}

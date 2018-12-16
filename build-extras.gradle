@@ -1,0 +1,8 @@
+ext.postBuildExtras = {
+    android {
+	        defaultConfig {
+            minSdkVersion 19
+            targetSdkVersion 22
+        }
+    }
+}

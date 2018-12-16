@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+    <string name="multi_title">Select files</string>
+    <string name="images_tab_title">Images</string>
+    <string name="videos_tab_title">Videos</string>
+</resources>
